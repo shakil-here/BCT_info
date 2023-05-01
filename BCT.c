@@ -1,3 +1,13 @@
+/* *******************************************************
+
+Author
+  Name : Shakil Hossain
+  Email: mhossain223670@bscse.uiu.ac.bd
+
+Before Using this code don't forgate to thanks the author
+
+***********************************************************
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -448,5 +458,3 @@ void print_allrounders(const struct Player *players, int num_players)
 
 
 
-//Credit Goes to Shakil Hossain
-//mhossain223670@bscse.uiu.ac.bd
