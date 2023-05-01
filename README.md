@@ -6,7 +6,25 @@ This program provides a menu-based interface for accessing and manipulating data
 
 1. Compile the code using a C compiler.
 2. Run the program in the terminal.
-3. Enter the name of the input file when prompted.
+3. Enter the name of the input file when prompted. You can use my `input` file as example .
+Make Sure that your file data formation is correct.
+
+<b>The Formation is :
+
+`Total Number of Player (one time)`
+
+`name`
+
+`age`
+
+`role`
+
+`matched played`
+
+`total runs`
+
+`highest run`
+
 4. Choose an option from the menu to perform the desired operation.
 
 ## 🚀 Features
